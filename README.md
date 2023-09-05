@@ -49,7 +49,6 @@ plt.show()
 ![Implementation of Univariate Linear Regression](imga.png)
 
 
-![Implementation of Univariate Linear Regression](imgb.png)
 
 
 ## Result:
